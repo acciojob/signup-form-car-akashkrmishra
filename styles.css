@@ -1,7 +1,8 @@
 
 /* Your CSS Code here. */
-.form1{
+form{
 	display:flex;
 	flex-direction:column;
-	justify-content:space-between;
+	
+	
 }
