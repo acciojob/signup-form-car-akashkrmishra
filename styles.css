@@ -1,8 +1,14 @@
 
 /* Your CSS Code here. */
 form{
+	border: 1px solid black;
 	display:flex;
 	flex-direction:column;
-	
-	
+	padding:5px;
+	margin:3px;
+	text: italic;
+	font-size:16px;
+}
+input, label{
+	margin:3px;
 }
